@@ -1,10 +1,12 @@
+
   # Project Name
-  Tech Blog
+  Tech Blog 
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  No tests
+  As a developer who writes about tech I want a CMS-style blog site so that I can publish articles, blog posts, and my thoughts and opinions.
+
   ## Table Of Contents
   [Installation](#installation)
 
@@ -23,7 +25,7 @@
   MIT
 
   ## Usage
-  Create user or login and post your material.
+  Create account or login and begin blogging.
   
   ## Test
   ~~~
@@ -31,5 +33,5 @@
   ~~~
 
   ## Contact
-  With any questions contact me at <ian.nicholas.developer@gmail.com>, for contribution efforts <https://github.com/iannicholas>
+  With any questions contact me at <ian.nicholas.webdeveloper@gmail.com>, for contribution efforts <https://github.com/iannicholas>
   
